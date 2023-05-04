@@ -1,0 +1,9 @@
+Final Optimal answer 
+
+  -    15   -    -    -    -  
+  25   -    -    -    -    -  
+   2    5   15   -    20   -  
+   3   -    -    10   -    22 
+
+Total transportation cost: 374
+
